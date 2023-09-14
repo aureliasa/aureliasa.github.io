@@ -1,0 +1,7 @@
+.text-holder .highlight {
+  background-color: #ccc; /* Remplacez ceci par la couleur grise de votre choix */
+}
+/* Ajoutez ce CSS à votre feuille de style existante */
+.site .content-inner {
+  margin-top: -100px; /* Réduire l'espace entre la photo et le texte en dessous */
+}
